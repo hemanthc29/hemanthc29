@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Jee preparation assistant**
 
-- 🤝 I’m looking for help with **Smart time table application**
+- 🤝 I’m looking for help with **Smart time table generator application**
 
 - 📫 How to reach me **cvhk6300@gmail.com**
 
