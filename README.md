@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cvhk6300@gmail.com**
 
-My Portfolio (https://cvhkportfolio.netlify.app/)
+- My Portfolio https://cvhkportfolio.netlify.app/
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14uXsTeMUI_XwbStfcpMnOeHPI7VEQXI1/view?usp=drivesdk](https://drive.google.com/file/d/14uXsTeMUI_XwbStfcpMnOeHPI7VEQXI1/view?usp=drivesdk)
 
